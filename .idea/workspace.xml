@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33d489e9-7a81-4f45-a0c2-0d85dcc02f61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-263605791-867101579-3812082657-1001/$R3ZZ9OZ/.idea/clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-263605791-867101579-3812082657-1001/$RATL7P5/DemoOfJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-263605791-867101579-3812082657-1001/$RBVONUT/.idea/TicTocToeGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-263605791-867101579-3812082657-1001/$RD9ZDTV/.idea/UserRegistrationJunitTestException.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-263605791-867101579-3812082657-1001/$RE6BUIQ/.idea/modules/UserResgistration-JunitTest-Exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-263605791-867101579-3812082657-1001/$RP07BZ8/.idea/UserRegistrationJunitTestException.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-263605791-867101579-3812082657-1001/$RP07BZ8/.idea/modules/UnitTestDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-263605791-867101579-3812082657-1001/$RVDZ2AP/.idea/modules/UserResgistration-UnitTest-Exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/AddressBookRestAPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/JSonSimpleAddressBook.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/addressbook/controller/AddressBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/addressbook/dbconnection/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/addressbook/enums/SortOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/addressbook/exception/AddressBookException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/addressbook/models/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/addressbook/services/AddressBookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/addressbook/services/DataBaseCRUDOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/addressbook/services/IAddressBookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/addressbook/services/SearchSortOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/addressbook/utility/AddressBookUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/addressbook/utility/FileOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/addressbook/utility/InputUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/addressbook/utility/UserInputs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/addressbook/utility/ValidateInputs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/CSVAddressBook.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/JSonSimpleAddressBook.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/RESTAssureJSONFile.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/gsonJSONAddressBook.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/routes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/addressbook/AddressBookServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/addressbook/RESTAssureAddressBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookStatementJson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem/AddressBookSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBookSystem/Contacts.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Binary-Tree-/.idea/modules/Binary-Tree-.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Binary-Tree-/src/test/java/com/bridgelabz/MyBinaryTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCamp/JAVA_BASIC/JAVA_BASIC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CORE-JAVA-NOTES/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CORE-JAVA-NOTES/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CORE-JAVA-NOTES/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CORE-JAVA-NOTES/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CORE-JAVA-NOTES/.idea/modules/CORE-JAVA-NOTES.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CORE-JAVA-NOTES/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CORE-JAVA-NOTES/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CORE-JAVA-NOTES/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CORE-JAVA-NOTES/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CORE-JAVA-NOTES/src/main/java/com/bridgelabz/WrapperClass/WrapperDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/.idea/modules/Cab-Invoice-Generate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/build/classes/java/main/com/bridgelabz/InvoiceGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/src/main/java/com/bridgelabz/InvoiceGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cab-Invoice-Generate/src/test/java/com/bridgelabz/InvoiceGeneratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/.idea/modules/Census-Analyser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/build/classes/java/main/com/bridgelabz/censusanalyser/CSVStateCensus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/build/classes/java/main/com/bridgelabz/censusanalyser/CensusAnalyserException$ExceptionType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/build/classes/java/main/com/bridgelabz/censusanalyser/CensusAnalyserException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/build/classes/java/main/com/bridgelabz/censusanalyser/StateCensusAnalyser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/build/classes/java/test/com/bridgelabz/censusanalyser/StateCensusAnalyserTestCases.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/build/reports/tests/test/classes/com.bridgelabz.censusanalyser.StateCensusAnalyserTestCases.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/build/reports/tests/test/packages/com.bridgelabz.censusanalyser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/build/resources/test/IndiaStateCensusData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/build/resources/test/IndiaStateCode.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/build/resources/test/USCensusData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/build/test-results/test/TEST-com.bridgelabz.censusanalyser.StateCensusAnalyserTestCases.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/src/main/java/com/bridgelabz/censusanalyser/CSVStates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/src/main/java/com/bridgelabz/censusanalyser/StateCensusAnalyser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/src/test/java/com/bridgelabz/censusanalyser/StateCensusAnalyserTestCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/src/test/resources/IndiaStateInvalidCode.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Census-Analyser/src/test/resources/IndiaStateInvalidCodeInHeader.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA-STRUCTURE/build/classes/java/main/com/bridgelabz/linkedlist/LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA-STRUCTURE/build/classes/java/main/com/bridgelabz/linkedlist/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA-STRUCTURE/build/classes/java/main/com/bridgelabz/linkedlist/TestMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA-STRUCTURE/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA-STRUCTURE/src/main/java/com/bridgelabz/linkedlist/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA-STRUCTURE/src/main/java/com/bridgelabz/linkedlist/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA-STRUCTURE/src/main/java/com/bridgelabz/linkedlist/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/.idea/modules/DEMO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/src/main/java/AddressBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/src/main/java/AddressBookException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/src/main/java/AddressBookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/src/main/java/FileOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/src/main/java/IAddressBookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/src/main/java/InputUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/src/main/java/WriteToCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/src/main/java/sortOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/.idea/modules/Data_Structures-LinkedList_Stacks_and_Queues.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/build/classes/java/main/com/bridgelabz/MyLinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/src/main/java/com/bridgelabz/MyLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_Structures-LinkedList_Stacks_and_Queues/src/test/java/com/bridgelabz/MyLinkListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.gradle/6.7/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.gradle/6.7/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.gradle/6.7/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.gradle/6.7/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.idea/modules/EmailValidAndInvalid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/build/reports/tests/test/classes/com.bridgelabzTest.invalid.EmailTestInvalid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/build/reports/tests/test/classes/com.bridgelabztest.valid.EmailTestValid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/build/reports/tests/test/packages/com.bridgelabzTest.invalid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/build/reports/tests/test/packages/com.bridgelabztest.valid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/build/test-results/test/TEST-com.bridgelabzTest.invalid.EmailTestInvalid.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/build/test-results/test/TEST-com.bridgelabztest.valid.EmailTestValid.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailValidAndInvalid/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeWageComputation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/.idea/modules/Emplyee-Pay-Roll.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/build/classes/java/main/com/bridgelabz/DatabaseConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/build/classes/java/main/com/bridgelabz/EmployeePayrollService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/build/classes/java/test/com/bridgelabz/EmployeePayrollTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/build/reports/tests/test/classes/com.bridgelabz.EmployeePayrollTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/build/reports/tests/test/packages/com.bridgelabz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/build/test-results/test/TEST-com.bridgelabz.EmployeePayrollTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/src/main/java/com/bridgelabz/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/src/main/java/com/bridgelabz/EmployeePayrollService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/src/main/java/com/bridgelabz/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emplyee-Pay-Roll/src/test/java/com/bridgelabz/EmployeePayrollTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship-Pratices/.idea/Fellowship-Pratices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship-Pratices/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship-Pratices/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship-Pratices/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship-Pratices/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/.idea/modules/Food-hotel-mgt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/classes/java/main/com/bridgelabz/Food.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/classes/java/main/com/bridgelabz/GuestOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/classes/java/main/com/bridgelabz/ManageFood.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/classes/java/main/com/bridgelabz/TestMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/classes/java/main/com/data/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/classes/java/main/com/data/CobbieManchurian.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/classes/java/main/com/data/DalFry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/classes/java/main/com/data/Drink.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/classes/java/main/com/data/FoodCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/classes/java/main/com/data/FoodItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/classes/java/main/com/data/FoodStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/classes/java/main/com/data/FoodType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/classes/java/main/com/data/MasalaPapad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/classes/java/main/com/data/PaneerTikka.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/classes/java/main/com/data/TandooriChicken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/classes/java/main/com/data/Taste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/classes/java/test/com/data/DrinkTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/reports/tests/test/classes/ApplicationTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/test-results/test/TEST-ApplicationTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/src/main/java/com/bridgelabz/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/src/main/java/com/bridgelabz/GuestOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/src/main/java/com/bridgelabz/ManageFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/src/main/java/com/bridgelabz/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/src/main/java/com/data/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/src/main/java/com/data/DalFry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/src/main/java/com/data/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/src/main/java/com/data/FoodItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/src/main/java/com/data/FoodStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/src/main/java/com/data/MasalaPapad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/src/main/java/com/data/PaneerTikka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food-hotel-mgt/src/main/java/com/data/TandooriChicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HOTEL_MANAGEMENT/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HOTEL_MANAGEMENT/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HOTEL_MANAGEMENT/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HOTEL_MANAGEMENT/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HOTEL_MANAGEMENT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HOTEL_MANAGEMENT/.idea/modules/HOTEL_MANAGEMENT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HOTEL_MANAGEMENT/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HOTEL_MANAGEMENT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/JAVA-PARATICES.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/LineLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/LineLengthMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/UserRegistration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/bridgelabz/controller/AddressBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/bridgelabz/enums/sortOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/bridgelabz/exception/AddressBookException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/bridgelabz/models/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/bridgelabz/service/AddressBookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/bridgelabz/service/IAddressBookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/bridgelabz/utils/FileOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/bridgelabz/utils/InputUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/bridgelabz/utils/WriteToCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/email/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/email/ValidateUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/fileio/Contents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/fileio/fileProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/food/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/food/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/food/FoodItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/food/FoodStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/food/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/food/OrderManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/main/java/com/bridgelabz/java8feacture/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/src/test/java/com/bridgelabz/email/EmailTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/target/classes/com/bridgelabz/LineLength.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/target/classes/com/bridgelabz/LineLengthMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-PARATICES/target/test-classes/com/bridgelabz/email/EmailTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/src/main/java/com/bridgelabz/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/.idea/modules/JunitTests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/src/main/java/com/bridgelabz/main/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTests/src/test/java/com/bridgelabz/mainTest/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/build/classes/java/main/com/bridgelabz/LineComparison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map-Using-HashTable/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map-Using-HashTable/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map-Using-HashTable/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map-Using-HashTable/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map-Using-HashTable/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map-Using-HashTable/.idea/modules/Map-Using-HashTable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map-Using-HashTable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map-Using-HashTable/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map-Using-HashTable/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map-Using-HashTable/src/test/java/com/bridgelabz/HashTableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.idea/modules/MoodAnalyser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/src/main/java/com/bridgelabz/exception/MoodAnalysisException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/src/main/java/com/bridgelabz/main/MoodAnalyser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoodAnalyser/src/test/java/com/bridgelabz/MoodAnalyserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NileshClone/.idea/NileshClone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NileshClone/.idea/libraries/UserRegistration_master.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NileshClone/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NileshClone/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NileshClone/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NileshClone/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NileshClone/UserRegistration-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming-System-(OOPs)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming-System-(OOPs)/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming-System-(OOPs)/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming-System-(OOPs)/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming-System-(OOPs)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming-System-(OOPs)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming-System-(OOPs)/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming-System-(OOPs)/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming-System-(OOPs)/src/main/java/com/bridgelabz/OOPs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PRATICES/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PRATICES/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PRATICES/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PRATICES/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PRATICES/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PRATICES/.idea/modules/PRATICES.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PRATICES/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PRATICES/src/main/java/com/lambdaexpresion/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PRATICES/src/main/java/com/lambdaexpresion/MyInter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PRATICES/src/main/java/com/lambdaexpresion/MyInterImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticProject/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticProject/.idea/modules/StaticProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticProject/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticProject/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticProject/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticProject/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticProject/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticProject/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticProject/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/.idea/modules/Test-Maximum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/src/main/java/com/bridgelabz/Maximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test-Maximum/src/test/java/com/bridgelabz/MaximumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/out/production/Test/com/company/LineComparison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../USER-REGISTRATION/UserRegistrationProblem/UserRegistration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../User-Registration-Junit-Test-Case/.idea/modules/User-Registration-Junit-Test-Case.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../User-Registration-Junit-Test-Case/src/test/java/com/brigelabz/UserRegistrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/fellowship.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/.idea/modules/hotel_mgt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/backup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/build/classes/java/main/com/hotel/Doubleroom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/build/classes/java/main/com/hotel/Food.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/build/classes/java/main/com/hotel/Hotel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/build/classes/java/main/com/hotel/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/build/classes/java/main/com/hotel/NotAvailable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/build/classes/java/main/com/hotel/Singleroom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/build/classes/java/main/com/hotel/holder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/build/classes/java/main/com/hotel/write.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/src/main/java/com/hotel/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/src/main/java/com/hotel/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/src/main/java/com/hotel/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel_mgt/src/main/java/com/hotel/Singleroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/gradlew.bat" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="ProjectId" id="1ubreoEJ6m5yN0U8gOytFywCluP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AddressBookRestAPI\src\main\resources" />
+      <recent name="E:\AddressBookRestAPI\src\test\java\com\bridgelabz\addressbook" />
+      <recent name="E:\AddressBookRestAPI\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\AddressBookRestAPI\src\main\java\com\bridgelabz\addressbook" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.RESTAssureAddressBookTest.givenPersonDetails_OnPost_ShouldReturnAddedPersonDetails">
+    <configuration name="AddressBookRestAPI [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RESTAssureAddressBookTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.addressbook.RESTAssureAddressBookTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RESTAssureAddressBookTest.givenPersonDetails_OnPost_ShouldReturnAddedPersonDetails" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.addressbook.RESTAssureAddressBookTest.givenPersonDetails_OnPost_ShouldReturnAddedPersonDetails&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RESTAssureAddressBookTest.onCallingList_ReturnPersonList" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.addressbook.RESTAssureAddressBookTest.onCallingList_ReturnPersonList&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RESTAssureAddressBookTest.givenPersonDetails_OnPost_ShouldReturnAddedPersonDetails" />
+        <item itemvalue="Gradle.RESTAssureAddressBookTest.onCallingList_ReturnPersonList" />
+        <item itemvalue="Gradle.RESTAssureAddressBookTest" />
+        <item itemvalue="Gradle.AddressBookRestAPI [dependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33d489e9-7a81-4f45-a0c2-0d85dcc02f61" name="Default Changelist" comment="" />
+      <created>1624945230446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624945230446</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

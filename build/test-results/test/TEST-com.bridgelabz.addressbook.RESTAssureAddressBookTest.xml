@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.addressbook.RESTAssureAddressBookTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-29T07:09:32" hostname="LAPTOP-DILI6N8Q" time="3.737">
+  <properties/>
+  <testcase name="givenPersonDetails_OnPost_ShouldReturnAddedPersonDetails" classname="com.bridgelabz.addressbook.RESTAssureAddressBookTest" time="3.737"/>
+  <system-out><![CDATA[{
+  "firstName": "Nilesh",
+  "lastName": "Kunmar",
+  "address": "Kundal",
+  "city": "GGG",
+  "state": "MH",
+  "zipCode": "457885",
+  "phone": "9999999999",
+  "id": 3
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,48 @@
+{
+  "AddressBook": [
+    {
+      "id": 1,
+      "Zip": "587301",
+      "Address": "Kundal",
+      "Phone": "8105215414",
+      "State": "KA",
+      "Name": "Akshay",
+      "City": "Sangli"
+    },
+    {
+      "id": 2,
+      "Zip": "5556699",
+      "Address": "PN",
+      "Phone": "5566998870",
+      "State": "MH",
+      "Name": "Aniket",
+      "City": "pawar"
+    },
+    {
+      "firstName": "Aniket",
+      "lastName": "dake",
+      "address": "pune",
+      "city": "pune",
+      "state": "Maharashtra",
+      "zipCode": "457885",
+      "phone": "9999999999",
+      "id": 3
+    },
+    {
+      "firstName": "kunal",
+      "lastName": "Pawar",
+      "address": "Nagpur",
+      "city": "Gondia",
+      "state": "MH",
+      "zipCode": "457885",
+      "phone": "9999999999",
+      "id": 4
+    },
+    {
+      "Name": "nikhil",
+      "Phone": "9898989898",
+      "State": "TN",
+      "id": 5
+    }
+  ]
+}
